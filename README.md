@@ -1,4 +1,5 @@
 **The mod is available for NeoForge, version 1.21.8. It can be downloaded at _https://modrinth.com/mod/lifesteal+_.**
+**The main purpose of this GitHub page is to serve as an issue tracker.**
 
 A mod that adds lifesteal mechanics, a bunch of amulets and a new mob! (more planned to be added in the future).
 
